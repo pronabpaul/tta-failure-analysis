@@ -1,7 +1,6 @@
 # When Does Test-Time Augmentation (TTA) Hurt?
 
 **Author:** Pronab Kumar Paul  
-**GitHub:** https://github.com/pronabpaul/tta-failure-analysis
 
 
 ## Overview
